@@ -221,6 +221,14 @@ The project integrates:
 - NEMA 17 stepper motor for bin positioning.
 - Limit switches for homing and movement protection.
 
+## Project Demonstration
+
+Watch the complete working demonstration of our AI-Powered Smart Waste Segregation System.
+
+[![AI Waste Segregation System Demonstration](https://img.youtube.com/vi/HUJFUk7StMc/maxresdefault.jpg)](https://youtu.be/HUJFUk7StMc)
+
+**[▶ Watch the Full Project Demonstration on YouTube](https://youtu.be/HUJFUk7StMc)**
+
 ## Results and Evaluation
 
 The EfficientNet-B0 model achieved 97.44% test accuracy on the held-out test dataset.
