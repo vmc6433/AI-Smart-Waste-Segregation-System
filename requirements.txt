@@ -1,0 +1,13 @@
+numpy
+Pillow
+opencv-python
+pandas
+matplotlib
+scikit-learn
+tqdm
+torch
+torchvision
+PyQt6
+pyserial
+python-dotenv
+google-genai

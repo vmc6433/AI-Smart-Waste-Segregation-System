@@ -1,0 +1,46 @@
+{
+    "model": "EfficientNet-B0",
+    "test_images": 2266,
+    "correct_predictions": 2208,
+    "incorrect_predictions": 58,
+    "accuracy": 0.9744042365401588,
+    "accuracy_percent": 97.44042365401589,
+    "macro_precision": 0.968444750219132,
+    "macro_recall": 0.9678804871984149,
+    "macro_f1": 0.9681533822026467,
+    "weighted_precision": 0.9744837227256644,
+    "weighted_recall": 0.9744042365401588,
+    "weighted_f1": 0.9744391375075608,
+    "classes": [
+        "E_WASTE",
+        "ORGANIC",
+        "PLASTIC",
+        "RECYCLABLE"
+    ],
+    "confusion_matrix": [
+        [
+            565,
+            0,
+            0,
+            4
+        ],
+        [
+            0,
+            298,
+            2,
+            3
+        ],
+        [
+            0,
+            1,
+            250,
+            21
+        ],
+        [
+            4,
+            1,
+            22,
+            1095
+        ]
+    ]
+}
